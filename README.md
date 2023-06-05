@@ -12,4 +12,4 @@ User Management: Endpoints for user registration, login, and profile management.
 Posts and Feeds: Create, read, update, and delete posts. Fetch posts from users'
 Likes and Comments: Users can like and comment on posts.
 Follow and Unfollow: Enable users to follow or unfollow other users.
-With a clean and intuitive API design, the Social Media REST API allows developers to integrate social media features seamlessly into their applications. Detailed documentation is provided within the repository to assist developers in understanding and utilizing the API effectively.
+With a clean and intuitive API design, the Social Media REST API allows developers to integrate social media features seamlessly into their applications. 
