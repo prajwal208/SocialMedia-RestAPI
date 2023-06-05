@@ -9,7 +9,7 @@ or any other system that requires social media features.
 The API offers a range of endpoints to perform various social media operations. Users can register an account and access protected resources. Key features of the API include:
 
 User Management: Endpoints for user registration, login, and profile management.
-Posts and Feeds: Create, read, update, and delete posts. Fetch posts from users' feeds, including pagination and filtering options.
+Posts and Feeds: Create, read, update, and delete posts. Fetch posts from users'
 Likes and Comments: Users can like and comment on posts.
 Follow and Unfollow: Enable users to follow or unfollow other users.
 Notifications: Real-time notifications for new followers, post likes, and comments.
